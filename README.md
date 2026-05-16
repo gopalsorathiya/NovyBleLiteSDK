@@ -1,16 +1,12 @@
 # NovyBleLiteSDK
 
 <p align="center">
-  <img src="banner.jpg" alt="NovyBleLiteSDK Banner" width="100%" />
-</p>
-
-<p align="center">
 Modern Bluetooth Low Energy SDK for iOS built with Swift Concurrency.
 </p>
 
 <p align="center">
   <a href="https://github.com/gopalsorathiya/NovyBleLiteSDK/releases">
-    <img src="https://github.com/gopalsorathiya/novyble.github.io/blob/main/banner.jpg" />
+    <img src="https://img.shields.io/github/v/release/gopalsorathiya/NovyBleLiteSDK" />
   </a>
 
   <a href="LICENSE">
