@@ -307,14 +307,10 @@ If this SDK helps your project, consider supporting development.
 ### 🇮🇳 UPI Support
 
 <p align="left">
-  <img src="assets/upi-qr.png" width="220" alt="UPI QR Code" />
+  <img src="./upi-qr.png" width="220" alt="UPI QR Code" />
 </p>
 
 [![Pay via UPI](https://img.shields.io/badge/Pay%20via-UPI-blueviolet?style=for-the-badge)](upi://pay?pa=gopalsorathiya@okhdfcbank)
-
-```text
-gopalsorathiya@okhdfcbank
-```
 
 ## 🚀 Sponsor Benefits
 
