@@ -1,0 +1,15 @@
+{
+  "originHash" : "0203a2ea0fb84532e5998a34d93654db91f8b98d826c400a296ff3334eb1b131",
+  "pins" : [
+    {
+      "identity" : "novyblelitesdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/gopalsorathiya/NovyBleLiteSDK",
+      "state" : {
+        "revision" : "2d8137a7f78453bd152187718024f748775a7c7c",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
