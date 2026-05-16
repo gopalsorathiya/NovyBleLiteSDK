@@ -306,8 +306,6 @@ If this SDK helps your project, consider supporting development.
 
 ### 🇮🇳 UPI Support
 
-[![UPI Support](https://img.shields.io/badge/UPI-Support-blueviolet?style=for-the-badge)](upi://pay?pa=gopalsorathiya@okhdfcbank)
-
 ```text
 gopalsorathiya@okhdfcbank
 ```
