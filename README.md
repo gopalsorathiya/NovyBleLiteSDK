@@ -298,22 +298,31 @@ Example app included:
 
 If this SDK helps your project, consider supporting development.
 
-## GitHub Sponsors
+## ❤️ Support Development
 
-https://github.com/sponsors/gopalsorathiya
+### 🌟 GitHub Sponsors
 
-## UPI Support
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/gopalsorathiya)
+
+### 🇮🇳 UPI Support
+
+[![UPI Support](https://img.shields.io/badge/UPI-Support-blueviolet?style=for-the-badge)](upi://pay?pa=gopalsorathiya@okhdfcbank)
 
 ```text
 gopalsorathiya@okhdfcbank
 ```
 
-Your support helps maintain:
-- BLE tooling
-- SDK updates
-- bug fixes
-- documentation
-- demo apps
+## 🚀 Sponsor Benefits
+
+Sponsors help accelerate:
+- faster SDK updates
+- new BLE features
+- better documentation
+- sample applications
+- testing hardware support
+- advanced tooling development
+
+Every contribution helps grow the BLE developer ecosystem.
 
 ---
 
