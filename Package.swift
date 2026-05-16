@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "NovyBleLite",
-            url: "https://github.com/gopalsorathiya/NovyBleLite/releases/download/1.0.0/NovyBleLite.xcframework.zip",
+            url: "https://github.com/gopalsorathiya/NovyBleLiteSDK/releases/download/1.0.0/NovyBleLite.xcframework.zip",
             checksum: "320b5adfc4cd67e7f8eb65c843f6f4017d12e70bfd30e52bc8477d5d92b78c61"
         )
     ]
