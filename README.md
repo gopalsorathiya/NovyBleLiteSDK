@@ -10,7 +10,7 @@ Modern Bluetooth Low Energy SDK for iOS built with Swift Concurrency.
 
 <p align="center">
   <a href="https://github.com/gopalsorathiya/NovyBleLiteSDK/releases">
-    <img src="https://img.shields.io/github/v/release/gopalsorathiya/NovyBleLiteSDK" />
+    <img src="https://github.com/gopalsorathiya/novyble.github.io/blob/main/banner.jpg" />
   </a>
 
   <a href="LICENSE">
