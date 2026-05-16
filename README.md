@@ -50,7 +50,7 @@ centralManager.scanForPeripherals(...)
 Use:
 
 ```swift
-for await devices in manager.scan(timeout: 5) {
+for await devices in manager.scan() {
 
 }
 ```
@@ -135,7 +135,7 @@ let manager = NovyBleManager()
 ```swift
 Task {
 
-    for await devices in manager.scan(timeout: 5) {
+    for await devices in manager.scan() {
 
         print(devices)
     }
