@@ -302,10 +302,6 @@ If this SDK helps your project, consider supporting development.
 
 https://github.com/sponsors/gopalsorathiya
 
-## Buy Me a Coffee
-
-https://buymeacoffee.com/gopalsorathiya
-
 ## UPI Support
 
 ```text
