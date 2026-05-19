@@ -300,12 +300,6 @@ If this SDK helps your project, consider supporting development.
 
 ## ❤️ Support Development
 
-### 🌟 GitHub Sponsors
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors)
-
-### 🇮🇳 UPI Support
-
 <p align="left">
   <img src="./upi-qr.png" width="220" alt="UPI QR Code" />
 </p>
