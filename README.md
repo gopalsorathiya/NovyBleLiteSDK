@@ -302,7 +302,7 @@ If this SDK helps your project, consider supporting development.
 
 ### 🌟 GitHub Sponsors
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors/gopalsorathiya)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-GitHub-pink?logo=githubsponsors&style=for-the-badge)](https://github.com/sponsors)
 
 ### 🇮🇳 UPI Support
 
